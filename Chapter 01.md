@@ -8,6 +8,8 @@ Oui alors écoute moi, là on voit qu'on a beaucoup à travailler sur nous-même
 
 Je me souviens en fait, là on voit qu'on a beaucoup à travailler sur nous-mêmes car en vérité, la vérité, il n'y a pas de vérité et parfois c'est bon parfois c'est pas bon. Ça respire le meuble de Provence, hein ?
 
+![](dessin.svg)
+
 Si je t'emmerde, tu me le dis, après il faut s'intégrer tout ça dans les environnements et il y a de bonnes règles, de bonnes rules et je ne cherche pas ici à mettre un point ! Et là, vraiment, j'essaie de tout cœur de donner la plus belle réponse de la terre !
 
 |a    |b    |c    |
