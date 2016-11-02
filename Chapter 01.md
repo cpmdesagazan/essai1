@@ -15,6 +15,14 @@ Beware killer rabbits!
   </div>
 </div>
 
+<div class="container alert">
+  <div class="jumbotron">
+    <h1>Bootstrap Tutorial</h1>
+    <p>Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile-first projects on the web.</p>
+  </div>
+  <p>This is some text.</p>
+  <p>This is another text.</p>
+</div>
 
 
 Que si je t'emmerde, tu me le dis, après il faut s'intégrer tout ça dans les environnements et le cycle du cosmos dans la vie... c'est une grande roue et cette officialité peut vraiment retarder ce qui devrait devenir... Tu vas te dire : J'aurais jamais cru que le karaté guy pouvait parler comme ça !
