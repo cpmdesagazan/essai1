@@ -1,7 +1,8 @@
 /* CSS for website */
 
 div, p {
-  font-family: "Linux Libertine G";  
+  font-family: "Linux Libertine G";
+  text-align: justify;
 }
 
 h1, h2, h3, h4, h5, h6 {
