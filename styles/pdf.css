@@ -1,1 +1,18 @@
 /* CSS for pdf */
+
+div, p {
+  font-family: "Charis SIL";  
+  text-align: justify;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Linux Biolinum G";
+}
+
+.book.font-size-3 .book-body .page-inner section {
+  font-size: 1.728rem;
+}
+.book.font-size-4 .book-body .page-inner section {
+  font-size: 2.0736rem;
+}
+
