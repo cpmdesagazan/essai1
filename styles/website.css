@@ -1,11 +1,17 @@
 /* CSS for website */
 
 div, p {
-  font-family: "Alegreya Sans";
-  font-size: 125%;
+  font-family: "Alegreya Sans";  
   text-align: justify;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Linux Biolinum G";
+}
+
+.book.font-size-3 .book-body .page-inner section {
+  font-size: 1.728rem;
+}
+.book.font-size-4 .book-body .page-inner section {
+  font-size: 2.0736rem;
 }
