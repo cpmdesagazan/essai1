@@ -2,6 +2,14 @@
 
 Then you see, même si on *affiche* comme on appelle ça en France, même si on *affleure*... c'est **un très, très gros travail** et cela même si les gens ne le savent pas ! Afficher, affleurer... Et là, vraiment, j'essaie de tout cœur de donner la plus belle réponse de la terre !
 
+<div class="alert alert-danger">
+Beware killer rabbits!
+</div>
+
+<a href="#">News <span class="badge">5</span></a><br>
+<a href="#">Comments <span class="badge">10</span></a><br>
+<a href="#">Updates <span class="badge">2</span></a>
+
 Que si je t'emmerde, tu me le dis, après il faut s'intégrer tout ça dans les environnements et le cycle du cosmos dans la vie... c'est une grande roue et cette officialité peut vraiment retarder ce qui devrait devenir... Tu vas te dire : J'aurais jamais cru que le karaté guy pouvait parler comme ça !
 
 Oui alors écoute moi, là on voit qu'on a beaucoup à travailler sur nous-mêmes car on vit dans une réalité qu'on a créée et que j'appelle illusion et c'est une sensation réelle qui se produit si on veut ! Ça respire le meuble de Provence, hein ?
