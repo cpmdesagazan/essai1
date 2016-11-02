@@ -6,7 +6,7 @@ Then you see, même si on *affiche* comme on appelle ça en France, même si on 
 Beware killer rabbits!
 </div>
 
-<div class="container">
+<div class="container alert">
   <div class="panel panel-default">
     <img src="dessin.svg"></img>
     <div class="panel-footer"><strong>Figure 1. </strong>
