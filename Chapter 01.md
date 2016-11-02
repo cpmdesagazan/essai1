@@ -1,6 +1,6 @@
 # Chapitre 1
 
-Then you see, même si on *frime* comme on appelle ça en France... c'est **un très, très gros travail** et cela même si les gens ne le savent pas ! Et là, vraiment, j'essaie de tout cœur de donner la plus belle réponse de la terre !
+Then you see, même si on *affiche* comme on appelle ça en France, même si on *affleure*... c'est **un très, très gros travail** et cela même si les gens ne le savent pas ! Afficher, affleurer... Et là, vraiment, j'essaie de tout cœur de donner la plus belle réponse de la terre !
 
 Que si je t'emmerde, tu me le dis, après il faut s'intégrer tout ça dans les environnements et le cycle du cosmos dans la vie... c'est une grande roue et cette officialité peut vraiment retarder ce qui devrait devenir... Tu vas te dire : J'aurais jamais cru que le karaté guy pouvait parler comme ça !
 
