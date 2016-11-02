@@ -6,9 +6,15 @@ Then you see, même si on *affiche* comme on appelle ça en France, même si on 
 Beware killer rabbits!
 </div>
 
-<a href="#">News <span class="badge">5</span></a><br>
-<a href="#">Comments <span class="badge">10</span></a><br>
-<a href="#">Updates <span class="badge">2</span></a>
+<div class="container-fluid">
+  <h1>Hello World!</h1>
+  <p>Resize the browser window to see the effect.</p>
+  <div class="row">
+    <div class="col-sm-4" style="background-color:lavender;">.col-sm-4</div>
+    <div class="col-sm-8" style="background-color:lavenderblush;">.col-sm-8</div>
+  </div>
+</div>
+
 
 Que si je t'emmerde, tu me le dis, après il faut s'intégrer tout ça dans les environnements et le cycle du cosmos dans la vie... c'est une grande roue et cette officialité peut vraiment retarder ce qui devrait devenir... Tu vas te dire : J'aurais jamais cru que le karaté guy pouvait parler comme ça !
 
