@@ -10,3 +10,13 @@ Je me souviens en fait, là on voit qu'on a beaucoup à travailler sur nous-mêm
 
 Si je t'emmerde, tu me le dis, après il faut s'intégrer tout ça dans les environnements et il y a de bonnes règles, de bonnes rules et je ne cherche pas ici à mettre un point ! Et là, vraiment, j'essaie de tout cœur de donner la plus belle réponse de la terre !
 
+|a    |b    |c    |
+|-----|-----|-----|
+|d    |e    |f    |
+|g    |h    |i    |
+|d    |e    |f    |
+|g    |h    |i    |
+|d    |e    |f    |
+|g    |h    |i    |
+
+
