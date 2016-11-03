@@ -29,6 +29,53 @@ Que si je t'emmerde, tu me le dis, après il faut s'intégrer tout ça dans les 
 
 Oui alors écoute moi, là on voit qu'on a beaucoup à travailler sur nous-mêmes car on vit dans une réalité qu'on a créée et que j'appelle illusion et c'est une sensation réelle qui se produit si on veut ! Ça respire le meuble de Provence, hein ?
 
+<table class="table table-striped">
+	<tbody><tr>
+		<th style="border: none; padding: 0cm" height="17">
+			<p>a</p>
+		</th>
+		<th style="border: none; padding: 0cm">
+			<p>b</p>
+		</th>
+		<th style="border: none; padding: 0cm">
+			<p>c</p>
+		</th>
+	</tr>
+	<tr>
+		<td style="border: none; padding: 0cm" height="17">
+			<p align="left">d</p>
+		</td>
+		<td style="border: none; padding: 0cm">
+			<p align="left">e</p>
+		</td>
+		<td style="border: none; padding: 0cm">
+			<p align="left">f</p>
+		</td>
+	</tr>
+	<tr>
+		<td style="border: none; padding: 0cm" height="17">
+			<p align="left">g</p>
+		</td>
+		<td style="border: none; padding: 0cm">
+			<p align="left">h</p>
+		</td>
+		<td style="border: none; padding: 0cm">
+			<p align="left">i</p>
+		</td>
+	</tr>
+	<tr>
+		<td style="border: none; padding: 0cm" height="17">
+			<p align="left">j</p>
+		</td>
+		<td style="border: none; padding: 0cm">
+			<p align="left">k</p>
+		</td>
+		<td style="border: none; padding: 0cm">
+			<p align="left">l</p>
+		</td>
+	</tr>
+</tbody></table>
+
 Je me souviens en fait, là on voit qu'on a beaucoup à travailler sur nous-mêmes car en vérité, la vérité, il n'y a pas de vérité et parfois c'est bon parfois c'est pas bon. Ça respire le meuble de Provence, hein ?
 
 ![](dessin.svg)
