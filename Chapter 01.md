@@ -31,46 +31,46 @@ Oui alors écoute moi, là on voit qu'on a beaucoup à travailler sur nous-même
 
 <table class="table table-striped">
 	<tbody><tr>
-		<th style="border: none; padding: 0cm" height="17">
+		<th >
 			<p>a</p>
 		</th>
-		<th style="border: none; padding: 0cm">
+		<th >
 			<p>b</p>
 		</th>
-		<th style="border: none; padding: 0cm">
+		<th >
 			<p>c</p>
 		</th>
 	</tr>
 	<tr>
-		<td style="border: none; padding: 0cm" height="17">
+		<td >
 			<p align="left">d</p>
 		</td>
-		<td style="border: none; padding: 0cm">
+		<td>
 			<p align="left">e</p>
 		</td>
-		<td style="border: none; padding: 0cm">
+		<td>
 			<p align="left">f</p>
 		</td>
 	</tr>
 	<tr>
-		<td style="border: none; padding: 0cm" height="17">
+		<td>
 			<p align="left">g</p>
 		</td>
-		<td style="border: none; padding: 0cm">
+		<td>
 			<p align="left">h</p>
 		</td>
-		<td style="border: none; padding: 0cm">
+		<td>
 			<p align="left">i</p>
 		</td>
 	</tr>
 	<tr>
-		<td style="border: none; padding: 0cm" height="17">
+		<td>
 			<p align="left">j</p>
 		</td>
-		<td style="border: none; padding: 0cm">
+		<td>
 			<p align="left">k</p>
 		</td>
-		<td style="border: none; padding: 0cm">
+		<td>
 			<p align="left">l</p>
 		</td>
 	</tr>
